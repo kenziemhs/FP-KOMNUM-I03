@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/e2b95b9d-51ff-4ed3-a7e5-d2846ecd4c2e)
-
 |    NRP     |      Name      |
 | :--------: | :------------: |
 | 5025241001 | Kenzie Maheswara|
